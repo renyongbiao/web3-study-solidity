@@ -124,7 +124,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Task-1.sol": "Task1"
+			"contracts/task1/Task-1.sol": "Task1"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -138,7 +138,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Task-1.sol": {
+		"contracts/task1/Task-1.sol": {
 			"keccak256": "0x3e4402e0b4e0630da01516de522cf638454d658f0b1d64c7887419dc2f0f96d9",
 			"license": "GPL-3.0",
 			"urls": [

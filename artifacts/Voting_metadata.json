@@ -113,7 +113,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Voting.sol": "Voting"
+			"contracts/task1/Voting.sol": "Voting"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -127,7 +127,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Voting.sol": {
+		"contracts/task1/Voting.sol": {
 			"keccak256": "0x6c1824fd03c5775c0e366ba932a1e1d38e8e8ecc0ef60cb106e5e40ce15b316d",
 			"license": "GPL-3.0",
 			"urls": [
