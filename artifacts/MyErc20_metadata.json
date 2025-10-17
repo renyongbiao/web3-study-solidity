@@ -152,6 +152,19 @@
 				"type": "function"
 			},
 			{
+				"inputs": [],
+				"name": "decimals",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
 				"inputs": [
 					{
 						"internalType": "address",
@@ -167,12 +180,38 @@
 				"name": "mint",
 				"outputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "bool",
 						"name": "",
-						"type": "uint256"
+						"type": "bool"
 					}
 				],
 				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "symbol",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
 				"type": "function"
 			},
 			{
@@ -312,11 +351,11 @@
 			]
 		},
 		"contracts/tast2/MyErc20.sol": {
-			"keccak256": "0x5bbbd2c7bf447f15ff52fc6f1521c520ab4e7da85b59b15bdba6e4abc7c5e97b",
+			"keccak256": "0x0af07db8ca50e7364b71140ff26ec9a237efdcb229946e37ba80a77579d05653",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://8e0b727b510e4dd4304aa81746c902f8a6d2829d0944c690ea1e784f4e43afe6",
-				"dweb:/ipfs/Qmb52wv7X19WiswKcmNd2WD6LhGMQUtux5emwbunpmnC7J"
+				"bzz-raw://0c59cd6ca8c3b75bb0d094a7adf498812dfe7b745a3a3f508b9ccfd01e3f60c3",
+				"dweb:/ipfs/QmcUU1P2CRYeE5DodbnBndYmfBKYSS4x7TcbcbstYSW7P6"
 			]
 		}
 	},
